@@ -1,0 +1,88 @@
+[
+    {
+        "course_id": "DS2002",
+        "section": "001",
+        "title": "Data Science Systems",
+        "level": 200,
+        "instructors": [
+            {
+                "name": "Austin Rivera",
+                "role": "Primary"
+            },
+            {
+                "name": "Heywood Williams-Tracy",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "DS3001",
+        "title": "Foundation of Machine Learning",
+        "section": "001",
+        "level": 300,
+        "instructors": [
+            {
+                "name": "Lei Li",
+                "role": "Primary"
+            },
+            {
+                "name": "Eva Mai Winston",
+                "role": "Grader"
+            }
+        ]
+    },
+    {
+        "course_id": "STAT4170",
+        "section": "002",
+        "title": "Financial Time Series",
+        "level": 400,
+        "instructors": [
+            {
+                "name": "Jeffrey Woo",
+                "role": "Primary"
+            },
+            {
+                "name": "",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "MUEN3631",
+        "title": "Flute Ensemble",
+        "level": 300,
+        "instructors": [
+            {
+                "name": "Kelly Sulick",
+                "role": "Primary"
+            }
+        ]
+    },
+    {
+        "course_id": "MATH2310",
+        "section": "200",
+        "title": "Calculus III",
+        "level": 200,
+        "instructors": [
+            {
+                "name": "Daniel James",
+                "role": "Primary"
+            },
+            {
+                "name": "Shaoyi Zhang",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "GETR3710",
+        "title": "Kafka and His Doubles",
+        "level": 300,
+        "instructors": [
+            {
+                "name": "Lorna Martens",
+                "role": "Primary"
+            }
+        ]
+    }
+]
