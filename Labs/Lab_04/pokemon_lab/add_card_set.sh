@@ -1,4 +1,5 @@
 #!/bin/bash
+
 set -e
 
 echo "TCG Card Set ID"
@@ -10,27 +11,12 @@ if [ -z "$SET_ID" ]; then
     exit 1
 fi
 
-URL="https://api.pokemontcg.io/v2/sets/$SET_ID"
-OUTPUT_FILE="card_set_lookup/${SET_ID}.json"
+echo "Fetching data for set ID: $SET_ID ..."
 
-echo "  -> Fetching data for $SET_ID..."
+mkdir -p card_set_lookup
 
-curl --request GET 
-  --url https://api.pokemontcg.io/v2/sets/$SET_ID 
-  --header 'X-Api-Key: <api_key_here>'
+curl -s "https://api.pokemontcg.io/v2/cards?q=set.id:${SET_ID}" \
+    -o "card_set_lookup/${SET_ID}.json"
 
-curl -s "$URL" -o "$OUTPUT_FILE" 2>&1
-    
-if [ $? -ne 0 ]; then
-    echo "Error: curl failed for $SET_ID." >&2
-    exit 1
-fi
-      
-if [ ! -s "$OUTPUT_FILE" ] || [ "$(jq 'length' "$OUTPUT_FILE")" -eq 0 ]; then
-    echo "Warning: No Card Set data found for $SET_ID. The API returned an empty response." >&2
-else
-    echo "  -> Data for $SET_ID saved successfully."
-fi
-
-echo "Data fetching complete. Check the 'card_set_lookup' directory."
+echo "Data fetching complete. Card data saved to card_set_lookup/${SET_ID}.json"
 
