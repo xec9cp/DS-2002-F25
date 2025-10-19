@@ -1,0 +1,181 @@
+index,binder_name,page_number,slot_number,card_id,card_name,set_name,card_market_value
+2_1_1,2,1,1,base4-1,Alakazam,Base Set 2,37.01
+2_1_2,2,1,2,base4-2,Blastoise,Base Set 2,104.69
+2_1_3,2,1,3,base4-3,Chansey,Base Set 2,14.71
+2_1_4,2,1,4,base4-4,Charizard,Base Set 2,304.88
+2_1_5,2,1,5,base4-5,Clefable,Base Set 2,14.02
+2_1_6,2,1,6,base4-6,Clefairy,Base Set 2,10.79
+2_1_7,2,1,7,base4-7,Gyarados,Base Set 2,26.86
+2_1_8,2,1,8,base4-8,Hitmonchan,Base Set 2,21.05
+2_1_9,2,1,9,base4-9,Magneton,Base Set 2,12.13
+2_2_1,2,2,1,base4-10,Mewtwo,Base Set 2,40.96
+2_2_2,2,2,2,base4-11,Nidoking,Base Set 2,24.13
+2_2_3,2,2,3,base4-12,Nidoqueen,Base Set 2,22.99
+2_2_4,2,2,4,base4-13,Ninetales,Base Set 2,21.31
+2_2_5,2,2,5,base4-14,Pidgeot,Base Set 2,27.41
+2_2_6,2,2,6,base4-15,Poliwrath,Base Set 2,13.35
+2_2_7,2,2,7,base4-16,Raichu,Base Set 2,33.18
+2_2_8,2,2,8,base4-17,Scyther,Base Set 2,24.6
+2_2_9,2,2,9,base4-18,Venusaur,Base Set 2,73.77
+2_3_1,2,3,1,base4-19,Wigglytuff,Base Set 2,11.0
+2_3_2,2,3,2,base4-20,Zapdos,Base Set 2,24.31
+2_3_3,2,3,3,base4-21,Beedrill,Base Set 2,1.96
+2_3_4,2,3,4,base4-22,Dragonair,Base Set 2,8.65
+2_3_5,2,3,5,base4-23,Dugtrio,Base Set 2,3.3
+2_3_6,2,3,6,base4-24,Electabuzz,Base Set 2,3.19
+2_3_7,2,3,7,base4-25,Electrode,Base Set 2,3.83
+2_3_8,2,3,8,base4-26,Kangaskhan,Base Set 2,3.15
+2_3_9,2,3,9,base4-27,Mr. Mime,Base Set 2,6.03
+2_4_1,2,4,1,base4-28,Pidgeotto,Base Set 2,3.82
+2_4_2,2,4,2,base4-29,Pinsir,Base Set 2,3.35
+2_4_3,2,4,3,base4-30,Snorlax,Base Set 2,9.3
+2_4_4,2,4,4,base4-31,Venomoth,Base Set 2,3.34
+2_4_5,2,4,5,base4-32,Victreebel,Base Set 2,2.8
+2_4_6,2,4,6,base4-33,Arcanine,Base Set 2,2.08
+2_4_7,2,4,7,base4-34,Butterfree,Base Set 2,1.59
+2_4_8,2,4,8,base4-35,Charmeleon,Base Set 2,1.73
+2_4_9,2,4,9,base4-36,Dewgong,Base Set 2,1.23
+2_5_1,2,5,1,base4-37,Dodrio,Base Set 2,1.8
+2_5_2,2,5,2,base4-38,Dratini,Base Set 2,1.01
+2_5_3,2,5,3,base4-39,Exeggutor,Base Set 2,1.18
+2_5_4,2,5,4,base4-40,Farfetch'd,Base Set 2,0.5
+2_5_5,2,5,5,base4-41,Fearow,Base Set 2,1.32
+2_5_6,2,5,6,base4-42,Growlithe,Base Set 2,1.21
+2_5_7,2,5,7,base4-43,Haunter,Base Set 2,0.85
+2_5_8,2,5,8,base4-44,Ivysaur,Base Set 2,3.58
+2_5_9,2,5,9,base4-45,Jynx,Base Set 2,0.6
+2_6_1,2,6,1,base4-46,Kadabra,Base Set 2,1.23
+2_6_2,2,6,2,base4-47,Kakuna,Base Set 2,0.71
+2_6_3,2,6,3,base4-48,Lickitung,Base Set 2,1.25
+2_6_4,2,6,4,base4-49,Machoke,Base Set 2,0.54
+2_6_5,2,6,5,base4-50,Magikarp,Base Set 2,0.9
+2_6_6,2,6,6,base4-51,Magmar,Base Set 2,1.09
+2_6_7,2,6,7,base4-52,Marowak,Base Set 2,1.87
+2_6_8,2,6,8,base4-53,Nidorina,Base Set 2,0.62
+2_6_9,2,6,9,base4-54,Nidorino,Base Set 2,1.55
+2_7_1,2,7,1,base4-55,Parasect,Base Set 2,0.9
+2_7_2,2,7,2,base4-56,Persian,Base Set 2,1.7
+2_7_3,2,7,3,base4-57,Poliwhirl,Base Set 2,0.92
+2_7_4,2,7,4,base4-58,Raticate,Base Set 2,0.9
+2_7_5,2,7,5,base4-59,Rhydon,Base Set 2,1.79
+2_7_6,2,7,6,base4-60,Seaking,Base Set 2,0.59
+2_7_7,2,7,7,base4-61,Seel,Base Set 2,0.58
+2_7_8,2,7,8,base4-62,Tauros,Base Set 2,2.96
+2_7_9,2,7,9,base4-63,Wartortle,Base Set 2,1.74
+2_8_1,2,8,1,base4-64,Weepinbell,Base Set 2,1.23
+2_8_2,2,8,2,base4-65,Abra,Base Set 2,0.42
+2_8_3,2,8,3,base4-66,Bellsprout,Base Set 2,0.44
+2_8_4,2,8,4,base4-67,Bulbasaur,Base Set 2,2.22
+2_8_5,2,8,5,base4-68,Caterpie,Base Set 2,0.43
+2_8_6,2,8,6,base4-69,Charmander,Base Set 2,1.2
+2_8_7,2,8,7,base4-70,Cubone,Base Set 2,0.81
+2_8_8,2,8,8,base4-71,Diglett,Base Set 2,0.38
+2_8_9,2,8,9,base4-72,Doduo,Base Set 2,0.44
+2_9_1,2,9,1,base4-73,Drowzee,Base Set 2,0.44
+2_9_2,2,9,2,base4-74,Exeggcute,Base Set 2,0.51
+2_9_3,2,9,3,base4-75,Gastly,Base Set 2,0.47
+2_9_4,2,9,4,base4-76,Goldeen,Base Set 2,0.38
+2_9_5,2,9,5,base4-77,Jigglypuff,Base Set 2,0.73
+2_9_6,2,9,6,base4-78,Machop,Base Set 2,0.41
+2_9_7,2,9,7,base4-79,Magnemite,Base Set 2,0.38
+2_9_8,2,9,8,base4-80,Meowth,Base Set 2,0.54
+2_9_9,2,9,9,base4-81,Metapod,Base Set 2,0.43
+2_10_1,2,10,1,base4-82,Nidoran ♀,Base Set 2,0.47
+2_10_2,2,10,2,base4-83,Nidoran ♂,Base Set 2,0.65
+2_10_3,2,10,3,base4-84,Onix,Base Set 2,0.83
+2_10_4,2,10,4,base4-85,Paras,Base Set 2,0.38
+2_10_5,2,10,5,base4-86,Pidgey,Base Set 2,0.53
+2_10_6,2,10,6,base4-87,Pikachu,Base Set 2,2.11
+2_10_7,2,10,7,base4-88,Poliwag,Base Set 2,0.41
+2_10_8,2,10,8,base4-89,Rattata,Base Set 2,0.45
+2_10_9,2,10,9,base4-90,Rhyhorn,Base Set 2,0.45
+2_11_1,2,11,1,base4-91,Sandshrew,Base Set 2,0.35
+2_11_2,2,11,2,base4-92,Spearow,Base Set 2,0.49
+2_11_3,2,11,3,base4-93,Squirtle,Base Set 2,1.06
+2_11_4,2,11,4,base4-94,Starmie,Base Set 2,0.51
+2_11_5,2,11,5,base4-95,Staryu,Base Set 2,0.29
+2_11_6,2,11,6,base4-96,Tangela,Base Set 2,0.35
+2_11_7,2,11,7,base4-97,Venonat,Base Set 2,0.6
+2_11_8,2,11,8,base4-98,Voltorb,Base Set 2,0.53
+2_11_9,2,11,9,base4-99,Vulpix,Base Set 2,0.8
+2_12_1,2,12,1,base4-100,Weedle,Base Set 2,0.35
+2_12_2,2,12,2,base4-101,Computer Search,Base Set 2,2.72
+2_12_3,2,12,3,base4-102,Imposter Professor Oak,Base Set 2,2.23
+2_12_4,2,12,4,base4-103,Item Finder,Base Set 2,7.47
+2_12_5,2,12,5,base4-104,Lass,Base Set 2,2.69
+2_12_6,2,12,6,base4-105,Pokémon Breeder,Base Set 2,4.44
+2_12_7,2,12,7,base4-106,Pokémon Trader,Base Set 2,3.23
+2_12_8,2,12,8,base4-107,Scoop Up,Base Set 2,4.3
+2_12_9,2,12,9,base4-108,Super Energy Removal,Base Set 2,2.51
+2_13_1,2,13,1,base4-109,Defender,Base Set 2,0.33
+2_13_2,2,13,2,base4-110,Energy Retrieval,Base Set 2,0.33
+2_13_3,2,13,3,base4-111,Full Heal,Base Set 2,0.36
+2_13_4,2,13,4,base4-112,Maintenance,Base Set 2,0.77
+2_13_5,2,13,5,base4-113,PlusPower,Base Set 2,0.39
+2_13_6,2,13,6,base4-114,Pokémon Center,Base Set 2,0.79
+2_13_7,2,13,7,base4-115,Pokédex,Base Set 2,0.46
+2_13_8,2,13,8,base4-116,Professor Oak,Base Set 2,1.29
+2_13_9,2,13,9,base4-117,Super Potion,Base Set 2,0.31
+2_14_1,2,14,1,base4-118,Bill,Base Set 2,0.33
+2_14_2,2,14,2,base4-119,Energy Removal,Base Set 2,0.3
+2_14_3,2,14,3,base4-120,Gust of Wind,Base Set 2,0.35
+2_14_4,2,14,4,base4-121,Poké Ball,Base Set 2,0.3
+2_14_5,2,14,5,base4-122,Potion,Base Set 2,0.24
+2_14_6,2,14,6,base4-123,Switch,Base Set 2,0.32
+2_14_7,2,14,7,base4-124,Double Colorless Energy,Base Set 2,2.23
+2_14_8,2,14,8,base4-125,Fighting Energy,Base Set 2,0.29
+2_14_9,2,14,9,base4-126,Fire Energy,Base Set 2,0.72
+2_15_1,2,15,1,base4-127,Grass Energy,Base Set 2,0.28
+2_15_2,2,15,2,base4-128,Lightning Energy,Base Set 2,0.38
+2_15_3,2,15,3,base4-129,Psychic Energy,Base Set 2,0.3
+2_15_4,2,15,4,base4-130,Water Energy,Base Set 2,0.25
+2_15_5,2,15,5,base4-4,Charizard,Base Set 2,304.88
+2_15_6,2,15,6,base4-2,Blastoise,Base Set 2,104.69
+2_15_7,2,15,7,base4-18,Venusaur,Base Set 2,73.77
+2_15_8,2,15,8,base4-10,Mewtwo,Base Set 2,40.96
+2_15_9,2,15,9,base4-20,Zapdos,Base Set 2,24.31
+2_16_1,2,16,1,base4-16,Raichu,Base Set 2,33.18
+2_16_2,2,16,2,base4-17,Scyther,Base Set 2,24.6
+2_16_3,2,16,3,base4-19,Wigglytuff,Base Set 2,11.0
+2_16_4,2,16,4,base4-14,Pidgeot,Base Set 2,27.41
+2_16_5,2,16,5,base4-12,Nidoqueen,Base Set 2,22.99
+2_16_6,2,16,6,base4-11,Nidoking,Base Set 2,24.13
+2_16_7,2,16,7,base4-1,Alakazam,Base Set 2,37.01
+2_16_8,2,16,8,base4-7,Gyarados,Base Set 2,26.86
+2_16_9,2,16,9,base4-3,Chansey,Base Set 2,14.71
+2_17_1,2,17,1,base4-5,Clefable,Base Set 2,14.02
+2_17_2,2,17,2,base4-87,Pikachu,Base Set 2,2.11
+2_17_3,2,17,3,base4-67,Bulbasaur,Base Set 2,2.22
+2_17_4,2,17,4,base4-69,Charmander,Base Set 2,1.2
+2_17_5,2,17,5,base4-93,Squirtle,Base Set 2,1.06
+2_17_6,2,17,6,base4-86,Pidgey,Base Set 2,0.53
+2_17_7,2,17,7,base4-89,Rattata,Base Set 2,0.45
+2_17_8,2,17,8,base4-6,Clefairy,Base Set 2,10.79
+2_17_9,2,17,9,base4-50,Magikarp,Base Set 2,0.9
+2_18_1,2,18,1,base4-65,Abra,Base Set 2,0.42
+2_18_2,2,18,2,base4-78,Machop,Base Set 2,0.41
+2_18_3,2,18,3,base4-79,Magnemite,Base Set 2,0.38
+2_18_4,2,18,4,base4-75,Gastly,Base Set 2,0.47
+2_18_5,2,18,5,base4-99,Vulpix,Base Set 2,0.8
+2_18_6,2,18,6,base4-60,Seaking,Base Set 2,0.59
+2_18_7,2,18,7,base4-100,Weedle,Base Set 2,0.35
+2_18_8,2,18,8,base4-68,Caterpie,Base Set 2,0.43
+2_18_9,2,18,9,base4-88,Poliwag,Base Set 2,0.41
+2_19_1,2,19,1,base4-57,Poliwhirl,Base Set 2,0.92
+2_19_2,2,19,2,base4-44,Ivysaur,Base Set 2,3.58
+2_19_3,2,19,3,base4-63,Wartortle,Base Set 2,1.74
+2_19_4,2,19,4,base4-35,Charmeleon,Base Set 2,1.73
+2_19_5,2,19,5,base4-46,Kadabra,Base Set 2,1.23
+2_19_6,2,19,6,base4-49,Machoke,Base Set 2,0.54
+2_19_7,2,19,7,base4-47,Kakuna,Base Set 2,0.71
+2_19_8,2,19,8,base4-81,Metapod,Base Set 2,0.43
+2_19_9,2,19,9,base4-22,Dragonair,Base Set 2,8.65
+2_20_1,2,20,1,base4-38,Dratini,Base Set 2,1.01
+2_20_2,2,20,2,base4-42,Growlithe,Base Set 2,1.21
+2_20_3,2,20,3,base4-33,Arcanine,Base Set 2,2.08
+2_20_4,2,20,4,base4-25,Electrode,Base Set 2,3.83
+2_20_5,2,20,5,base4-24,Electabuzz,Base Set 2,3.19
+2_20_6,2,20,6,base4-124,Double Colorless Energy,Base Set 2,2.23
+2_20_7,2,20,7,base4-116,Professor Oak,Base Set 2,1.29
+2_20_8,2,20,8,base4-118,Bill,Base Set 2,0.33
+2_20_9,2,20,9,base4-119,Energy Removal,Base Set 2,0.3

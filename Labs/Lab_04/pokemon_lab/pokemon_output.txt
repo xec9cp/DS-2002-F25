@@ -1,0 +1,57 @@
+--- Running Test Pipeline (Built-in Test Modes) ---
+Test Mode On. Testing pokemon ETL script
+Portfolio data has successfully been updated and saved as output_file. 
+
+===== Pokémon Card Portfolio Summary =====
+Total Portfolio Market Value: $0.00
+
+Most Valuable Card:
+  Name: nan
+  ID:   base1-1
+  Value: $0.00
+==========================================
+
+Test complete.
+
+
+--- Adding New Card Set ---
+TCG Card Set ID
+base1
+Fetching data for set ID: base1 ...
+Data fetching complete. Card data saved to card_set_lookup/base1.json
+
+--- Adding New Card Set ---
+TCG Card Set ID
+base4
+Fetching data for set ID: base4 ...
+Data fetching complete. Card data saved to card_set_lookup/base4.json
+
+--- Starting Portfolio Build Workflow ---
+Do you want to add a NEW card set? (yes/no)
+no
+Do you want to refresh ALL existing card sets? (yes/no)
+yes
+make[1]: Entering directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+--- Refreshing All Card Sets ---
+Start refreshing all card sets in card_set_lookup/...
+Start updating the card set with set ID: base1 ...
+Card data saved to card_set_lookup/base1.json
+Start updating the card set with set ID: base4 ...
+Card data saved to card_set_lookup/base4.json
+All card sets done refreshing.
+make[1]: Leaving directory '/workspaces/DS-2002-F25/Labs/Lab_04/pokemon_lab'
+Start running the production pipeline for pokemon cards ETL...
+Start updating the portfolio...
+Portfolio data has successfully been updated and saved as output_file. 
+Finish updating. Start generating summary...
+
+===== Pokémon Card Portfolio Summary =====
+Total Portfolio Market Value: $1,863.81
+
+Most Valuable Card:
+  Name: Charizard
+  ID:   base4-4
+  Value: $304.88
+==========================================
+
+Production pipeline complete.
